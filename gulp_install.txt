@@ -1,0 +1,31 @@
+yarn add gulp-cli
+
+yarn init
+
+yarn add gulp -D
+
+yarn add @babel/register
+
+yarn add @babel/core
+
+yarn add @babel/preset-env
+
+yarn add gulp-pug -D
+
+yarn add del
+
+yarn add gulp-webserver
+
+yarn add gulp-image
+
+yarn add node-sass
+
+yarn add gulp-sass
+
+yarn add gulp-csso
+
+yarn add gulp-bro
+
+yarn add uglifyify
+
+yarn add gulp-gh-pages
